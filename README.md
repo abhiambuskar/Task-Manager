@@ -8,5 +8,3 @@ The second user is an Admin is also able to do login and can add, update and del
 The difference between both the users is done at the login pager where in the type section an employee has to write employee and admin has to write admin as thier type for admin an extra field will be generated which will be a secret key will only be known to admin and after writing it correctly he can login in admin type otherwise it will give them an error.
 
 
-Thi
-
